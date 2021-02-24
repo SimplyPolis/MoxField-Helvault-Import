@@ -1,0 +1,2 @@
+# MoxField-Helvault-Import
+This program takes a command-line argument for the path to a helvault CSV file. It then prints out text that can be copied into moxfield while preserving the card version. To use ensure you have java installed afterward open up your command console and type. java -jar pathToJar pathToCSV. You can acquire these paths by dragging the file into the console window. In order to get the jar go to the build branch on this page at the top left.
